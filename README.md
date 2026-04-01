@@ -51,7 +51,8 @@ Sistema-de-Gestao/
 
 ## 📸 Preview do projeto
 
-![Preview do Sistema de Gestão](link_para_screenshot_aqui)
+<img width="1303" height="407" alt="image" src="https://github.com/user-attachments/assets/fb4274a7-bf57-4fec-b248-6b69f7926868" />
+
 
 ---
 
