@@ -1,6 +1,5 @@
-🚀 # Sistema Interativo de Gestão de Turmas
+## 📌 Sistema Interativo de Gestão de Turmas
 
----
 
 ## 🎯 Objetivo
 
@@ -43,7 +42,7 @@ Sistema-de-Gestao/
 ## 👩💻 Desenvolvedores
 
 * **Alexandre Araújo** 
-* **Iolanda Santos Barreto**
+* **Iolanda Barreto**
 * **Patrícia Berlim** 
 
 
