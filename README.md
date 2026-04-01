@@ -1,4 +1,4 @@
-# Sistema Interativo de Gestão de Turmas
+🚀 # Sistema Interativo de Gestão de Turmas
 
 ---
 
